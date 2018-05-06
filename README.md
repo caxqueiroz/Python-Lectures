@@ -39,6 +39,17 @@ Python is a modern, robust, high level programming language. It is very easy to 
 [Classes](http://nbviewer.ipython.org/github/caxqueiroz/coding-with-python/blob/master/classes.ipynb)
 
 
+[Recursions](http://nbviewer.ipython.org/github/caxqueiroz/coding-with-python/blob/master/recursions.ipynb)
+
+
+[Working with Files](http://nbviewer.ipython.org/github/caxqueiroz/coding-with-python/blob/master/working_with_files.ipynb)
+
+
+
+## Other useful links
+
+[Jupyter for beginners](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+
 
 These are online read-only versions.
 
