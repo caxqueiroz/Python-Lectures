@@ -15,6 +15,9 @@ Python is a modern, robust, high level programming language. It is very easy to 
 [Getting Started](http://nbviewer.ipython.org/github/caxqueiroz/coding-with-python/blob/master/getting_started.ipynb)
 
 
+[Introduction to Python](http://nbviewer.ipython.org/github/caxqueiroz/coding-with-python/blob/master/introduction_to_python.ipynb)
+
+
 [Variable, Operators and Built-in Functions](http://nbviewer.ipython.org/github/caxqueiroz/coding-with-python/blob/master/variables_operators.ipynb)
 
 
